@@ -60,7 +60,31 @@ Bu repo, sistematik bir okuma ve anlama kolaylığı sağlamak için aşağıdak
 
 * Bediüzzaman'ın hayatının (Eski Said, Yeni Said, Üçüncü Said Dönemleri) ve yaşadığı çalkantılı dönemlerin (I. Dünya Savaşı, Divan-ı Harb-i Örfî, sürgünler) eserlerin ortaya çıkışındaki rolü.
 
+
+## 💻 Dijital Tefekkür: Kod Araçları (Digital Tools)
+
+Bu repo, sadece metinlerden ibaret değildir. `src` klasörü altında tefekkürü teknolojiyle birleştiren Python araçları bulunur:
+
+### 1. 🧮 Ebced Hesaplayıcı
+Metinlerin Ebced değerini (Cifir ilmi yaklaşımıyla) hesaplar.
+```bash
+python src/ebced_hesaplayici.py
+```
+
+### 2. 📊 Kelime Frekansı Analizi
+Repo içindeki tüm markdown dosyalarını tarayarak en çok kullanılan kavramları listeler.
+```bash
+python src/kelime_frekansi.py
+```
+
+### 3. 🌟 Rastgele Vecize
+Size moral verecek rastgele bir Nur dersi veya sözü getirir.
+```bash
+python src/rastgele_vecize.py
+```
+
 ## 🤝 Katkıda Bulunma Felsefemiz
+
 
 Bu depo, sadece bir kaynak değil, aynı zamanda **kolektif bir tefekkür projesidir.** Eğer siz de Risale-i Nur’un ışığının modern çağa ulaşmasına katkıda bulunmak istiyorsanız, bize katılabilirsiniz!
 
