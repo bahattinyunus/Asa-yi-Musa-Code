@@ -1,0 +1,5 @@
+typer
+rich
+streamlit
+pandas
+altair
