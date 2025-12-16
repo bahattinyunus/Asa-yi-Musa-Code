@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software or dataset in your research, please cite it as below."
+authors:
+  - family-names: "Yunus"
+    given-names: "Bahattin"
+title: "Asa-yi Musa Code: A Digital Corpus and Analysis Toolkit for Risale-i Nur"
+version: 1.0.0
+date-released: 2024-12-16
+url: "https://github.com/bahattinyunus/Asa-yi-Musa-Code"
+keywords:
+  - "risale-i nur"
+  - "islamic studies"
+  - "corpus linguistics"
+  - "digital humanities"
+  - "nlp"
+license: MIT
