@@ -53,19 +53,27 @@ graph TD
 ## � Proje Yapısı
 
 
+
 ```text
 Asa-yi Musa Code
+├── 01-Temel-Kavramlar/ # İman, Tevhid, Haşir gibi temel doktrin analizleri
+├── 02-Eser-Ozetleri/   # Risale bazlı içerik özetleri ve haritalar
+├── 03-Metodoloji/      # Asa-yi Musa'nın tefekkür usulü üzerine notlar
+├── 04-Meseleler/       # Güncel sorulara verilen cevapların derlemesi
+├── 05-Okuma-Rehberi/   # Yeni başlayanlar için sırasıyla okuma listeleri
+├── 06-Biyografi/       # Tarihçe-i Hayat ve dönem analizleri
 ├── data/
-│   ├── corpus/             # Kültürel Miras: 15 Ciltlik Tam Metin Dijital Külliyat (Markdown formatında, analiz için optimize edilmiş)
-│   ├── vecizeler.json      # Semantik Veritabanı: Konu etiketli, kaynaklı ve kategorize edilmiş binlerce vecize
-│   └── _dosyalar/          # Görsel Hafıza: Projenin tarihsel ve estetik boyutunu destekleyen görsel arşiv ve belgeler
+│   ├── corpus/             # Kültürel Miras: 15 Ciltlik Tam Metin Dijital Külliyat
+│   ├── vecizeler.json      # Semantik Veritabanı: Konu etiketli vecizeler
+│   └── _dosyalar/          # Görsel Hafıza Arşivi
 ├── src/
-│   ├── ebced_hesaplayici.py # Cifir Motoru: Geleneksel ebced kurallarını dijital hassasiyetle uygulayan hesaplama çekirdeği
-│   ├── nur_cli.py          # Terminal Arayüzü: Hızlı analizler ve veri manipülasyonu için geliştirilmiş komut satırı aracı
-│   └── nurlib/             # Çekirdek Kütüphane: Projenin tüm NLP ve analiz fonksiyonlarını barındıran modüler Python kütüphanesi
-├── app.py                  # Web Arayüzü: Kullanıcıların verilerle etkileşime girdiği Streamlit tabanlı modern ön yüz
-└── README.md               # Kılavuz: Projenin vizyonunu, kurulumunu ve kullanımını detaylandıran ana dokümantasyon
+│   ├── nur_cli.py          # Terminal Arayüzü (CLI)
+│   ├── ebced_hesaplayici.py
+│   └── nurlib/
+├── app.py                  # Web Arayüzü
+└── README.md
 ```
+
 
 
 ---
@@ -167,17 +175,49 @@ print(f"Ebced Değeri: {sonuc}")  # Beklenen: 786
 print(f"Hesaplama Detayı: {detaylar}")
 ```
 
+
 **Senaryo 2: Külliyat Üzerinde Makro Analiz (Big Data)**
-Binlerce sayfalık metin üzerinde saniyeler içinde kelime frekans analizi yaparak, Risale-i Nur'un kavramsal haritasını çıkarın. Hangi kavramın ne sıklıkla ve hangi bağlamda kullanıldığını CLI aracı ile sorgulayın.
+Binlerce sayfalık metin üzerinde saniyeler içinde kelime frekans analizi yaparak, Risale-i Nur'un kavramsal haritasını çıkarın.
 
 ```bash
-# En sık geçen ilk 5 kavramı ve köklerini analiz et
-python src/nur_cli.py frekans --limit 5 --kok-bulma aktif
-
-# Çıktı Analizi:
-# 1. Allah (Lafz-ı Celal): 5000+ defa (Merkez kavram)
-# 2. İman (Rükün): 3200+ defa
+python src/nur_cli.py frekans --limit 5
 ```
+
+---
+
+
+## 💻 CLI Aracı Kullanım Detayları
+
+Asa-yi Musa Code projesi, grafik arayüze ihtiyaç duymadan, doğrudan terminal üzerinden hızlı ve etkili analizler yapmanıza olanak tanıyan güçlü bir **Komut Satırı Arayüzü (CLI)** sunar. `nur_cli.py` modülü, sistem yöneticileri ve geliştiriciler için optimize edilmiş olup, aşağıdaki temel fonksiyonları barındırır:
+
+| Komut | Derinlemesine Açıklama | Örnek Kullanım Senaryosu |
+| :--- | :--- | :--- |
+| **`intro`** | **Proje Vizyon Kartı:** Asa-yi Musa sisteminin genel durumu, versiyon bilgisi ve felsefi misyonu hakkında özet bir bilgi sunar. Sistemin sağlıklı çalışıp çalışmadığını test etmek için bir "ping" komutu işlevi de görür. | `python src/nur_cli.py intro` |
+| **`ebced`** | **Dijital Cifir Çözümleyici:** Girilen herhangi bir Latince metni, arka planda Osmanlıca imla kurallarına göre analiz eder (Transliterasyon) ve her bir harfin Ebced-i Kebir değerini hesaplayarak matematiksel bir döküm sunar. Harflerin gizli sayısal dünyasına açılan bir kapıdır. | `python src/nur_cli.py ebced "Elhamdülillah"` |
+| **`vecize`** | **Rastgele Hikmet Üretici:** Semantik veritabanımızdan (`vecizeler.json`), o anki ihtiyacınıza veya tefekkür gündeminize ışık tutacak, rastgele seçilmiş bir "Nurlu Hakikat" getirir. Güne başlarken veya kod yazarken manevi bir motivasyon kaynağı olarak tasarlanmıştır. | `python src/nur_cli.py vecize` |
+| **`frekans`** | **Kavramsal Yoğunluk Analisti:** 15 ciltlik devasa Risale-i Nur külliyatını saniyeler içinde tarar. Kelimelerin kullanım sıklıklarını (frekanslarını) hesaplayarak, Risale-i Nur'un "kavram haritasını" çıkarır. Hangi kavramın metnin kalbinde yer aldığını istatistiksel olarak keşfetmenizi sağlar. | `python src/nur_cli.py frekans --limit 20` |
+
+
+---
+
+
+## 📚 Dijital Külliyat Okuma Rehberi
+
+Bu repo, sadece soğuk kod satırlarından ibaret teknik bir yığın değildir; aynı zamanda hakikat yolcusu için yapılandırılmış, kademeli bir **"dijital medrese" müfredatı** sunar. Kök dizindeki numaralandırılmış klasörler, bir öğrencinin (talebe) bilgi seviyesine göre takip etmesi gereken pedagojik bir rotayı temsil eder:
+
+1.  **[01-Temel-Kavramlar](./01-Temel-Kavramlar/):**
+    Risale-i Nur'un üzerine inşa edildiği "İman", "Tevhid", "Nübüvvet", "Haşir" ve "Adalet" gibi sarsılmaz doktrinlerin, modern aklın idrakine uygun analizleri burada yer alır. Bu bölüm, binanın temeli hükmündedir; diğer tüm analizler bu kavramsal zemin üzerine oturur.
+
+2.  **[02-Eser-Ozetleri](./02-Eser-Ozetleri/):**
+    Sözler, Mektubat, Lem'alar gibi ana kitapların her biri için hazırlanmış; bölüm bölüm içerik haritaları, kavram ağları ve özet metinler. Külliyatın devasa okyanusunda kaybolmadan, kuş bakışı bir perspektif kazanmak isteyenler için hayati bir pusuladır.
+
+3.  **[03-Metodoloji-ve-Usul](./03-Metodoloji-ve-Usul/):**
+    Sadece "ne" okunduğunu değil, "nasıl" okunması gerektiğini öğreten rehber bölüm. Risale-i Nur'un kendine has "mana-yı harfi" (varlığa Yaratıcı hesabına bakmak) metodolojisi ve tefekkür sistematiği üzerine akademik notlar içerir.
+
+4.  **[06-Biyografi-ve-Tarih](./06-Biyografi-ve-Tarih/):**
+    Eserin müellifi Bediüzzaman Said Nursî'nin çalkantılı ve ibretli hayat hikayesi. "Eski Said", "Yeni Said" ve "Üçüncü Said" olarak adlandırılan üç farklı tarihsel dönem, eserlerin yazıldığı konjonktürü (bağlamı) anlamak için kritik birer anahtardır.
+
+
 
 
 ---
@@ -296,7 +336,7 @@ Detaylar için [CITATION.cff](CITATION.cff) dosyasına bakınız.
 
 Bu proje yaşayan bir organizmadır ve sizin geri bildirimlerinizle büyüyecektir. Her türlü soru, öneri, hata bildirimi veya akademik işbirliği teklifi için aşağıdaki kanalları kullanabilirsiniz:
 
--   **E-posta:** Akademik ve özel iletişim için `iletisim@bahattinyunus.com` adresini kullanabilirsiniz.
+-   **E-posta:** Akademik ve özel iletişim için `bahattinyunuscetin1@gmail.com` adresini kullanabilirsiniz.
 -   **GitHub Discussions:** Teknik sorular, özellik istekleri ve topluluk tartışmaları için [Soru & Cevap Panosu](https://github.com/bahattinyunus/Asa-yi-Musa-Code/discussions) en hızlı kanaldır.
 -   **Sosyal Medya:** Proje güncellemelerini ve analizlerden örnekleri takip etmek için [@AsayiMusaCode](https://twitter.com) Twitter/X hesabını takip edebilirsiniz.
 
