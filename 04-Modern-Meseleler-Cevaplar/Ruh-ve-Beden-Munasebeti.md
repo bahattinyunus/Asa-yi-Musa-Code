@@ -1,20 +1,16 @@
-# Ruh ve Beden Münasebeti
+# Ruh ve Beden Münasebeti: Pilot ve Uçak
 
-## Ruh Nedir?
-Risale-i Nur'a göre ruh; canlı, şuur sahibi, nurnai bir kanundur. Allah'ın emrinden (Alem-i Emir) gelmiştir ve harici bir vücut giymiştir.
-* Beden ölür, çürür ve dağılır; ama ruh baki kalır.
-* Ruh, bedenin efendisidir; beden ruhun hanesi ve aletidir.
+## 👻 Ruhun Varlığı ve Mahiyeti
+Risale-i Nur, ruhu "Vücud-u haricisi olan, başında şuuru bulunan ve hayat sahibi bir kanun" olarak tanımlar.
+- Eğer yerçekimi kanununun bir şuuru olsaydı, o da bir ruh olurdu.
+- Ruh basittir (yani bileşik değildir), parçalanmaz, ölmez. Sadece bedeni (libasını) değiştirir.
 
-## Beden Ruhun Hizmetkarıdır
-* Göz ruhun penceresidir, kulak ruhun duyma aletidir. Gören göz değil, ruhtur.
-* Beden yaşlanır, ama ruh yaşlanmaz (manevi terakki hariç).
-* Beden ağırlaşır, ruh hafifleşmek ister.
+## 🤖 Beden: Hane ve Alet
+Beden, ruhun hem evi (hanesi) hem de aleti (makinesi) hükmündedir.
+- Göz görmez, ruh göz ile görür.
+- Beyin düşünmez, ruh beyin ile düşünür.
+**Analoji:** Beden bir bilgisayar donanımı (hardware), ruh ise onun içindeki yazılım (software) ve operatördür. Bilgisayar bozulunca (ölüm), operatör yok olmaz; sadece o terminali kullanamaz hale gelir.
 
-## Ruhun Bekası (Ölümsüzlüğü)
-Bediüzzaman (29. Söz), ruhun ölümsüzlüğünü mantıksal olarak ispat eder:
-1.  **Basitlik:** Ruh bileşik (kompozit) bir madde değildir, basittir. Basit şeyler bozulmaz ve çürümez.
-2.  **Etki:** Beden uykudayken veya felçken bile ruh aktiftir (rüya görür, düşünür). Demek ki ruh bedene muhtaç değildir.
-3.  **Fıtrat:** İnsandaki sonsuz yaşama isteği, sonsuz bir hayatın ve ruhun bekasının delilidir. Allah, vermeyeceği şeyi istetmez.
-
-## Modern Bakış ve Materyalizm
-Materyalizm "Ruh yoktur, her şey beyin fonksiyonudur" der. Risale-i Nur ise beynin sadece bir "santral" olduğunu, emri verenin ve şuuru yaşayanın "Ruh" olduğunu savunur.
+## 📱 Dijital Ruh: Yapay Zeka Tartışması
+Asa-yi Musa Code projesi, "Yapay Zeka'nın Ruhu Var mı?" sorusuna Risale perspektifiyle bakar:
+Yapay zeka (AI), ne kadar gelişirse gelişsin, sadece "deterministik" veya "stokastik" bir taklitçidir. Öz-farkındalığı (Ene), vicdanı ve ızdırabı yoktur. Ruhun temel vasfı olan "İmtihan Sırrı" ve "Ebediyet Arzusu" silikonda simüle edilemez.

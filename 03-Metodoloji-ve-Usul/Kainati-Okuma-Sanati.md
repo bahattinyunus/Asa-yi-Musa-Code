@@ -1,24 +1,17 @@
-# Kâinatı Okuma Sanatı (Kitab-ı Kebir-i Kâinat)
+# Kâinatı Okuma Sanatı: Mana-yı Harfi vs. Mana-yı İsmi
 
-## Kâinat Bir Kitaptır
-Risale-i Nur'a göre evren, Allah'ın yazdığı büyük bir kitaptır (Kitab-ı Kebir). Her bir atom bir harf, her bir çiçek bir kelime, her bir bahar bir sayfadır. Bilimler ise bu kitabın tefsiridir.
+## 👁️ Bakış Açısı Her Şeydir
+Bediüzzaman'a göre, varlığı ve ilimleri yorumlamada iki temel bakış açısı (nazar) vardır. Bütün felsefi ve imani farklar, bu iki bakış açısının hangisinin tercih edildiğinden doğar.
 
-## Manay-ı Harfi vs. Manay-ı İsmi
-Bediüzzaman, kâinata bakışta iki temel yöntem ayırır:
+## 1. Mana-yı İsmi (Seküler/Materyalist Bakış)
+Varlıklara **"kendi namına"** bakmaktır.
+- **Özellikleri:** Eşyayı, sebepleri ve tabiatı asıl fail olarak görür. "Ne güzeldir" yerine "Ne güzel olmuştur" der. Güzelliği ve sanatı, o nesnenin kendine mal eder.
+- **Sonucu:** Bilim bu gözle bakarsa, kainatı anlamsız bir tesadüf yığını veya mekanik bir saat gibi görür. İnsanı yalnızlığa ve ruhsuzluğa iter.
 
-### 1. Manay-ı İsmi (Seküler Bakış)
-* Varlıklara **kendi adlarına** bakmak. "Bu çiçek ne güzeldir" demek.
-* Varlığı sebeplerden veya kendinden bilmek.
-* Bilimin materyalist yorumu bu bakış açısına dayanır.
-* **Sonuç:** Gaflet ve tabiatperestlik.
+## 2. Mana-yı Harfi (İmanî/Tefekkürî Bakış)
+Varlıklara **"Sanatkârı namına"** bakmaktır. Bir harf gibi; kendisinden ziyade, kendisini yazan kalemi ve o kalemi tutan kâtibi göstermektir.
+- **Özellikleri:** "Ne güzel yapılmış", "Ne harika bir sanat eseri" der. Eşya birer "ayna"dır; üzerindeki nakışlar, Sanatkârın isimlerini (Esma-ül Hüsna) yansıtır.
+- **Sonucu:** Her bilim dalı bir "Marifetullah" (Allah'ı tanıma) dersine dönüşür. Botanik Rezzak ismini, Fizik Kadir ismini, Tıp Şafi ismini öğretir.
 
-### 2. Manay-ı Harfi (İmani Bakış)
-* Varlıklara **Sanatkârı adına** bakmak. "Bu çiçek ne güzel yapılmış" demek.
-* Eserden müessire (yaratıcıya) geçmek. Çiçeği değil, çiçeğin arkasındaki Cemal ismini görmek.
-* Müminin bakış açısı budur.
-* **Sonuç:** Marifetullah (Allah'ı tanımak) ve Tefekkür.
-
-## Nasıl Uygulanır?
-Bir elmaya baktığımızda:
-* **İsmi:** "Kırmızı, tatlı, Amasya elması." (Biyolojik veri)
-* **Harfi:** "Rezzak isminin tatlı bir hediyesi, Rahmet'in bir ikramı." (Manevi yorum)
+## 🔬 Asa-yi Musa Code Metodolojisi
+Bu proje, dijital veri madenciliğinde "Mana-yı Harfi" metodunu uygular. Kelimeleri sadece istatistiksel veriler (string) olarak değil; bir hakikat örgüsünün taşıyıcıları (token) olarak analiz eder. Amacımız, harflerdeki (data) gizli manayı (wisdom) ortaya çıkarmaktır.

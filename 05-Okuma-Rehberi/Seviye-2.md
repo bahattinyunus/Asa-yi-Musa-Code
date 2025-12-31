@@ -1,20 +1,21 @@
-# İkinci Seviye Okuma Listesi (Orta Seviye)
+# Seviye 2: Kalfa (Orta) Seviye Okuma Listesi
 
-## Hedef Kitle
-Temel kavramları ve Küçük Sözleri bitirmiş, Külliyatın diline aşina olmaya başlamış okuyucular.
+## 🎯 Hedef
+İman hakikatlerinin (Tevhid, Haşir, Nübüvvet) ilmi delillerini öğrenmek ve tefekkür derinliğini artırmak. Dili (Osmanlıca terminoloji) daha iyi kavramaya başlamak.
 
-## Önerilen Kitaplar
-1.  **Mektubat (19. ve 22. Mektup hariç):**
-    *   İslam inancının detayları, sosyal hayat prensipleri (Uhuvvet, Gıybet gibi) ve çeşitli sorulara verilen cevapları içerir.
-    *   *Özellikle:* Uhuvvet Risalesi (22. Mektup), Mucizat-ı Ahmediye (19. Mektup).
+## 📖 Okuma Listesi
 
-2.  **Lem'alar (İhlas, İktisat, Tesettür Risaleleri):**
-    *   **21. Lem'a (İhlas Risalesi):** Risale-i Nur talebelerinin el kitabı. Samimiyetin önemi.
-    *   **19. Lem'a (İktisat Risalesi):** İsrafın zararları ve kanaatin bereketi.
+### 1. Haşir Risalesi (10. Söz)
+- **Konu:** Öldükten sonra dirilişin akli ispatı.
+- **Zorluk:** Soyut kavramları (Esma-ül Hüsna tecellileri) içerir. Dikkatli ve not alarak okunmalıdır.
 
-3.  **Tarihçe-i Hayat (İlk Bölümler):**
-    *   Bediüzzaman'ın hayatını öğrenmek, eserlerin hangi şartlarda yazıldığını bilmek motivasyonu artırır.
+### 2. Ayet-ül Kübra (7. Şuâ)
+- **Konu:** Bir "Kainat Gezgini"nin (Seyyah) gözüyle evreni, atmosferi, denizleri, dağları gezerek Allah'ı tanıması.
+- **Özellik:** Risale-i Nur'daki en kapsamlı "Tevhid" dersidir. Modern bilimin verileriyle (Astronomi, Biyoloji) en çok örtüşen risaledir.
 
-## Nasıl Okunmalı?
-* **Not Alarak:** Beğenilen cümlelerin altı çizilmeli veya not defterine yazılmalı.
-* **Kavram Çalışması:** "Mana-yı harfi", "Ene", "Tabiat" gibi anahtar terimlerin derinlikleri araştırılmalı.
+### 3. Mektubat (Seçme Mektuplar)
+- **19. Mektup:** Hz. Muhammed'in (ASM) peygamberlik delilleri ve mucizeleri (Mucizat-ı Ahmediye).
+- **22. Mektup:** Uhuvvet (Kardeşlik) Risalesi. Müslümanlar arası ihtilafın zararları ve birliğin çareleri.
+
+### 4. Gençlik Rehberi
+- **Konu:** Gençliğin tehlikeleri, günah psikolojisi ve iffet kavramı.

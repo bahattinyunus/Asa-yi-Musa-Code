@@ -1,15 +1,18 @@
-# Eski Said Dönemi
+# Eski Said Dönemi: Arayış ve İçtimaî Reçeteler (1878-1920)
 
-## Tarih Aralığı
-Yaklaşık olarak 1878 (Doğum) ile 1920'li yılların başı (İstanbul'un işgali ve Ankara'ya geçiş dönemi) arasını kapsar.
+## 🕰️ Tarihsel Bağlam ve Karakteristik
+Eski Said dönemi, Osmanlı İmparatorluğu'nun son demlerine, Meşrutiyet'in ilanına ve Birinci Dünya Savaşı'nın yıkımlarına tanıklık eden fırtınalı bir süreçtir. Bu dönemde Bediüzzaman, bir **"İslam Mütefekkiri"** ve **"Sosyal Reformist"** kimliğiyle ön plandadır. Temel motivasyonu, İslam dünyasının geri kalmışlığına (cehalet, zaruret, ihtilaf) çareler aramak ve Batı medeniyetinin maddi terakkisi ile İslam'ın manevi değerlerini sentezlemektir.
 
-## Karakteristik Özellikler
-* **Sosyal ve Siyasi Aktivizm:** Bu dönemde Bediüzzaman, İslam dünyasının geri kalmışlığına çözüm arayan, siyasetle ve sosyal meselelerle yakından ilgilenen bir mütefekkirdir.
-* **Eğitim Reformu:** "Medresetüzzehra" projesiyle din ilimleri ile fen ilimlerinin birlikte okutulacağı bir üniversite kurmayı hedefler.
-* **Selanik ve İstanbul Seyahatleri:** Meşrutiyet, hürriyet ve adalet kavramlarını İslami bir perspektifle yorumlar (Münazarat, Hutbe-i Şamiye).
+## 🏛️ Medresetü'z-Zehra İdeali
+Bu dönemin en büyük projesi, Doğu Anadolu'da (Van) kurulması planlanan ve "Medresetü'z-Zehra" adını verdiği üniversitedir. Bu kurumun felsefesi şudur:
+> "Vicdanın ziyası, ulûm-u diniyedir. Aklın nuru, fünun-u medeniyedir. İkisinin imtizacıyla hakikat tecelli eder. O iki cenah ile talebenin himmeti pervaz eder."
 
-## Eserler
-* **Münazarat:** Kürt aşiretleriyle diyalogları, hürriyet ve meşrutiyet tartışmaları.
-* **Muhakemat:** Tefsir usulü ve kelam ilminin yenilenmesi üzerine bir manifesto.
-* **Divan-ı Harb-i Örfî:** 31 Mart Vakası sonrası yargılanması ve savunması.
-* **Hutbe-i Şamiye:** Şam Emevi Camii'nde İslam dünyasının hastalıkları ve reçeteleri üzerine verdiği hutbe.
+Yani fen bilimleri ile din ilimlerinin birlikte okutulduğu, taassubu kıran ve modern şüpheleri gideren bir eğitim modeli. Asa-yi Musa Code projesi, bu idealin dijital bir yansımasıdır.
+
+## ⚔️ Siyasi Duruş ve Hürriyet
+Eski Said, "Hürriyet" kavramını imanî bir temele oturtur: "Hürriyet, ne nefsine ne de başkasına zarar vermemektir." İstibdada karşı meşrutiyeti (anayasal düzeni) savunur, ancak bunun Şeriat dairesinde (adalet ve şura meşvereti) olması gerektiğini vurgular. Divan-ı Harb-i Örfî savunması, fikir özgürlüğünün manifestosu niteliğindedir.
+
+## 📚 Dönemin Temel Eserleri
+- **Münazarat:** Kürt aşiretleriyle hürriyet, medeniyet ve devlet üzerine diyaloglar.
+- **Muhakemat:** İslam alimlerinin bilimsel gerçeklerle çatışmaması gerektiğini anlatan metodolojik eser.
+- **Hutbe-i Şamiye:** İslam dünyasını durduran 6 hastalığı ve Kur'anî 6 reçeteyi teşhis eden sosyolojik hutbe.

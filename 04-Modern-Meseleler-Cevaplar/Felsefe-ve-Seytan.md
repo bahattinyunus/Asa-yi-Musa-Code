@@ -1,19 +1,12 @@
-# Felsefe ve Şeytan
+# Felsefe ve Şeytan: Vahiyden Kopuk Aklın Çıkmazı
 
-## Felsefe Dinsiz midir?
-Risale-i Nur, felsefeyi toptan reddetmez. Felsefeyi ikiye ayırır:
+## 🏛️ Felsefenin İki Yüzü
+Bediüzzaman, felsefeyi toptan reddetmez, ikiye ayırır:
+1.  **Felsefe-i Sakîme (Hasta/Menfi Felsefe):** Dinden ve vahiyden kopuk, sadece insan aklına dayanan, benlik (ene) ve tabiat eksenli düşünce sistemi. "Şeytanın bir şakirdi" olarak nitelenen felsefe budur.
+2.  **Felsefe-i Sahiha (Hakiki/Müspet Felsefe):** Vahyin ışığında kainatı okuyan, bilimi ve hikmeti Allah namına kullanan düşünce. İslami tefekkür ve bilim mirası bu gruba girer.
 
-### 1. Müsbet (Olumlu) Felsefe
-* Dine ve vahye hizmet eden, hakikati arayan, bilimsel gelişmeyi sağlayan hikmetli felsefe.
-* İslam alimlerinin ve dindar bilim adamlarının yolu.
+## 🐍 "Ene" ve Tiranlık
+Vahiyden kopuk felsefe, insan benliğini (Ene) firavunlaştırır. "Ben malikim, ben yaparım" iddiası, insanı önce kendine, sonra tabiata bir "Rab" gibi baktırır. Bu bakış açısı, modern dünyadaki bireyselliğin, hedonizmin ve güç savaşlarının temelidir.
 
-### 2. Menfî (Olumsuz) Felsefe
-* Vahye karşı duran, aklı tek rehber kabul eden, enaniyeti (egoyu) şişiren felsefe.
-* "Ben" merkezli düşünce sistemi.
-
-## Şeytanın Desiseleri ve Felsefe
-Bediüzzaman'a göre, menfi felsefe şeytanın en büyük araçlarından biridir. İnsana "Hürsün, kimseye boyun eğme, kendi aklın sana yeter" diyerek onu Yaratıcı'ya isyana teşvik eder.
-* **Ene (Benlik) ve Zerre:** Şeytan, insana kendi benliğini (Ene) ve maddeyi (Zerre) ilahlaştırtır. Risale-i Nur'daki "Ene ve Zerre Risalesi (30. Söz)", bu felsefi sapmayı analiz eder ve çürütür.
-
-## Çözüm
-Aklı vahyin ışığıyla aydınlatmak. Akıl bir gözdür, vahiy (Kur'an) ise ışıktır. Işık olmadan göz görmez. Vahiy olmadan akıl, felsefenin karanlık labirentlerinde kaybolur.
+## 🔥 Şeytanın Desiseleri
+Risale-i Nur, şeytanın ve onun fikir babalığını yaptığı materyalist akımların (Tabiat Risalesi'nde incelenen) argümanlarını mantıksal olarak çürütür. Şeytanın en büyük hilesi; "Kendi varlığını inkar ettirmek" ve "Eşyanın yaratılışını sebeplere ve tesadüfe verdirerek Allah'ı unutturmaktır."

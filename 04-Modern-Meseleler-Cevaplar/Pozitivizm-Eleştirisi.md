@@ -1,12 +1,13 @@
-# Pozitivizm ve Bilimsel Dogmatizm Eleştirisi
+# Pozitivizm Eleştirisi: Bilimin İdolleri
 
-## Sorun Nedir?
-Pozitivizm, sadece gözlemlenebilen ve deneyle ispatlanabilen olguların "bilimsel" ve "gerçek" olduğunu savunur. Bu yaklaşım, metafizik, ilahi ve manevi hakikatleri (Allah, melekler, vahiy gibi) reddetme eğilimindedir.
+## 🧪 Bilimizm (Scientism) Putu
+Pozitivizm, sadece "gözle görülen" ve "deneyle ispatlanan" şeyin gerçek olduğunu iddia eder. Gaybı, ruhu ve Yaratıcıyı, "bilimsel olmadığı" gerekçesiyle reddeder. Risale-i Nur, bu yaklaşımın aslında bilimsel değil, "dogmatik" bir körlük olduğunu savunur.
 
-## Risale-i Nur'un Cevabı
-Risale-i Nur, bilimin verilerini reddetmez; aksine bilimi "Allah'ın kainattaki kanunlarını keşfetme sanatı" olarak görür. Ancak bilimin "nasıl?" sorusuna cevap verirken, "neden?" ve "kim tarafından?" sorularını da cevaplaması gerektiğini savunur.
-* **Sebep-Sonuç İlişkisi:** Sebepler sadece birer perdedir. Sonucu yaratan sebepler değil, o sebepleri bir araya getiren Yaratıcıdır.
-* **Tabiatperestlik:** Tabiat bir "matbaa" gibidir, "basılan kitap" (yaratılanlar) matbaanın eseri değil, yazarın eseridir. Matbaa sadece bir araçtır.
+## 🔭 Gözle Görmek vs. Akılla Görmek
+Bediüzzaman, "Her şeyi maddede arayanların akılları gözlerindedir; göz ise maneviyatta kördür" der.
+- Yerçekimini gözle göremeyiz, etkileriyle biliriz (elma düşer).
+- Aklı gözle göremeyiz, eserleriyle biliriz (konuşma, medeniyet).
+- Allah'ı gözle (bu dünyada) göremeyiz, ama Kâinat O'nu her zerresiyle (eserleriyle) gösterir.
 
-## Sonuç
-Modern bilimsel bulgular (Büyük Patlama, genetik kodlar, ince ayar), materyalizmi değil, aksine bilinçli bir tasarımı (Akıllı Tasarım) desteklemektedir. Külliyat, bu modern bulguları tevhidi ispat için kullanır.
+## 🕸️ Tabiat Kanunları: Fail değil, Perde
+Pozitivizm, Doğa Yasalarını (Tabiatı) "Yaratıcı" yerine koyar. Risale-i Nur ise yasaların "Maddi bir vücudu olmadığını", sadece Yaratıcı'nın kudretinin birer "tecellisi" ve "işleyiş kuralı" olduğunu ispatlar. Trafik kuralları (yasa), arabayı süren şoför (fail) olamaz. Kanunlar iş yapamaz, işi yapan Kudret'tir.

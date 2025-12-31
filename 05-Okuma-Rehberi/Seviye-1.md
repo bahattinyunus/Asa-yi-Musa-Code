@@ -1,15 +1,23 @@
-# Birinci Seviye Okuma Listesi (Başlangıç)
+# Seviye 1: Çırak (Başlangıç) Seviyesi Okuma Listesi
 
-## Hedef Kitle
-Risale-i Nur Külliyatı ile ilk defa tanışanlar, dili ağır bulanlar ve temel kavramları öğrenmek isteyenler.
+## 🎯 Hedef
+Risale-i Nur'un diline, üslubuna ve temel kavramlarına aşinalık kazanmak. Ağır kelami tartışmalara girmeden, imanın tadını ve lezzetini hissettiren eserlerle başlamak.
 
-## Önerilen Kitaplar
-1.  **Küçük Sözler:** 1. Söz'den 9. Söz'e kadar olan bölüm. Günlük ibadetlerin mantığını ve insan psikolojisini anlatır.
-2.  **Hastalar Risalesi (25. Lem'a):** Hastalık ve musibetlerin manevi boyutunu, sabrın hikmetini anlatır. Çok akıcı ve teselli vericidir.
-3.  **Meyve Risalesi (11. Şua):** İmanın temel esaslarını (Allah'a iman, ahiret inancı) sade ve güçlü bir dille anlatır. Hapishane şartlarında yazılmıştır.
-4.  **Tabiat Risalesi (23. Lem'a):** Allah'ı inkar eden düşüncelere (tesadüf, sebepler, tabiat) karşı "Tabiat" fikrini çürüten en önemli ve kısa risaledir.
+## 📖 Okuma Listesi (Sıralı)
 
-## Nasıl Okunmalı?
-* **Sözlük Kullanımı:** Bilinmeyen kelimeler için mutlaka bir lügat (sözlük) bulundurulmalı.
-* **Acele Etmeden:** Anlamak için yavaş ve tefekkür ederek okunmalı.
-* **Müzakere:** Mümkünse bilen biriyle veya grupla okunmalı.
+### 1. Küçük Sözler (İlk 9 Söz)
+- **Konu:** İbadetin (Namazın) neden bir yük değil, ruh için bir gıda olduğu. İmanın insan hayatına kattığı huzur.
+- **Metot:** Kısa hikayeler (Temsiller) üzerinden anlatım.
+- **Süre:** 1 Hafta.
+
+### 2. Hastalar Risalesi (25. Lem'a)
+- **Konu:** Hastalık ve musibetlerin, günahlara kefaret olması ve insanı olgunlaştırması.
+- **Neden:** İnsanın en zayıf damarı olan "acı" ve "korku"yu tedavi ettiği için çok tesirlidir.
+
+### 3. İhlas Risalesi (21. Lem'a)
+- **Konu:** Amellerde sadece Allah rızasını gözetmek. Toplumsal birlikteliğin (sosyolojinin) temel yasaları.
+- **Not:** Bu risale, Nur talebelerinin "Anayasası" hükmündedir. Her 15 günde bir okunması tavsiye edilir.
+
+### 4. Tabiat Risalesi (23. Lem'a)
+- **Konu:** "Tesadüf" ve "Doğa" putlarını yıkan mantıksal darbeler.
+- **Önemi:** Modern ateizme karşı en etkili aşıdır.

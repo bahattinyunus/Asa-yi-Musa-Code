@@ -1,20 +1,23 @@
-# Sözler - Tematik Özet
+# Sözler: Kur'anî Hakikatlerin Kainat Kitabında Okunması
 
-## Kitabın Amacı
-"Sözler", Risale-i Nur Külliyatı'nın en temel ve hacimli eseridir. İman hakikatlerini, özellikle Allah'ın varlığı, ahiret, kader, nübüvvet ve ibadetin mahiyeti gibi konuları aklî ve mantıkî delillerle izah ve ispat eder.
+## 📖 Eserin Mahiyeti
+**Sözler (The Words)**, Risale-i Nur Külliyatı'nın ilk ve en temel eseridir. Toplam 33 "Söz"den oluşan bu şaheser, imanın temel esaslarını (Tevhid, Nübüvvet, Haşir, Adalet, İbadet) modern insanın algısına ve kainatın bilimsel gerçeklerine uygun olarak ispat ve izah eder.
 
-## Bölüm Bölüm Temalar
+## 🗝️ Tematik Harita
 
-### Küçük Sözler (1-9. Sözler)
-* Günlük ibadetlerin ve dindarlığın bireysel ve toplumsal faydaları.
-* İmanın insan hayatına kattığı anlam ve huzur.
+### 1-9. Sözler: İmanın ve İbadetin Güzelliği
+Küçük Sözler olarak da bilinen bu bölüm, "Temsil Metodu" (analojiler) kullanılarak yazılmıştır.
+- **1. Söz (Bismillah):** Her hayrın başı olan besmelenin kainat çapındaki işleyişi.
+- **5. Söz (Namaz):** İbadetin insan ruhu için neden bir ihtiyaç olduğu ve hayat yolculuğundaki önemi.
 
-### 10. Söz (Haşir Risalesi)
-* Öldükten sonra dirilişin (Haşir) aklen ve mantıken ispatı.
-* Allah'ın isimlerinin (Esma-i Hüsna) ahireti nasıl gerektirdiği.
+### 10. Söz: Haşir Risalesi (Öldükten Sonra Diriliş)
+Risale-i Nur'un zirvelerinden biridir. Ebediyet inancını sadece nakli (dini) delillerle değil, "12 Hakikat" altında toplanan kainat delilleriyle (Rahmet, Hikmet, Adalet vb.) ispat eder.
 
-### 22. Söz
-* Tevhidin (Allah'ın birliğinin) ispatı.
+### 23. Söz: İmanın İnsana Kazandırdığı Güç
+İmanın, insanı kainatın efendisi yapan bir "intisap" (Yaratıcıya bağlanma), küfrün ise insanı aciz bir canavar haline getiren bir kopuş olduğunu psikolojik tahlillerle anlatır.
 
-### 32. Söz
-* Tabiat fikrinin eleştirisi ve Allah'ın birliğinin delilleri.
+### 30. Söz: "Ene" ve "Zerre"
+Felsefenin "Benlik" (Ene) ve bilimin "Atom" (Zerre) konusundaki çıkmazlarını çözen, her ikisinin de tevhide nasıl hizmet ettiğini gösteren metafizik bir başyapıttır.
+
+### 33. Söz: Pencereler Risalesi
+Kainattan Yaratıcıya açılan 33 ayrı pencere (delil). Her bir pencere, farklı bir bilim dalının veya gözlemin diliyle Allah'ı tanıtır.
