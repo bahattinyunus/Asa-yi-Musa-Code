@@ -109,6 +109,7 @@ Repo içeriğindeki veri seti (corpus), akademik ve teknik araştırmaların sü
 -   **Hiyerarşik Dizin Yapısı:** Dosyalar, külliyatın doğal sırasını takip edecek şekilde `[Kitap No] [Kitap Adı] / [Risale No] [Risale Adı].md` formatında klasörlenmiştir. Bu yapı, hem gezintiyi kolaylaştırır hem de algoritmik taramaları hızlandırır.
 -   **Metin Temizliği ve Normalizasyon:** Metinler, analizleri saptırabilecek gereksiz boşluklardan ve düzensizliklerden arındırılmıştır. Dipnotlar, referanslar ve ayet mealleri, metin madenciliği süreçlerinde ayırt edilebilmesi için özel `[REF]` ve benzeri etiketlerle standardize edilmiştir.
 -   **Zengin Metadata:** Her dosyanın başında, o metnin aidiyeti, telif tarihi ve konusu gibi bilgileri içeren YAML tabanlı bir metadata bloğu bulunur. Bu, ileri seviye filtreleme işlemleri için kritiktir.
+-   **Terminoloji:** Projede kullanılan teknik ve ıstılahi kavramlar için [LUGATCE.md](LUGATCE.md) dosyasını inceleyebilirsiniz.
 
 
 ---
